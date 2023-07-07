@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\software\dev\unity\Projects\2023AIGJ" t="IncludeRecursive">
+      <e p="2023AIGJ.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Imgs" t="Include" />
+              </e>
+              <e p="Modules" t="Include">
+                <e p="DOTween.Modules.asmdef" t="Include" />
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include" />
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Core" t="Include">
+            <e p="Architecture" t="Include">
+              <e p="ComponentContainer.cs" t="Include" />
+              <e p="EventManager.cs" t="Include" />
+              <e p="Mono" t="Include">
+                <e p="CachedBehaviour.cs" t="Include" />
+                <e p="MonoSingleton.cs" t="Include" />
+              </e>
+              <e p="NoneableClass.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+            <e p="DataStructure" t="Include">
+              <e p="Hash" t="Include" />
+              <e p="Linear" t="Include">
+                <e p="Deque.cs" t="Include" />
+                <e p="PriorityQueue" t="Include">
+                  <e p="Heap.cs" t="Include" />
+                  <e p="PriorityQueue.cs" t="Include" />
+                </e>
+                <e p="Stack.cs" t="Include" />
+              </e>
+              <e p="Tree" t="Include">
+                <e p="BST.cs" t="Include" />
+                <e p="QuadTree.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Debug" t="Include">
+              <e p="Debug.cs" t="Include" />
+            </e>
+            <e p="Math" t="Include">
+              <e p="Bound2D.cs" t="Include" />
+              <e p="Complex.cs" t="Include" />
+              <e p="Geometry2D.cs" t="Include" />
+              <e p="GeometryDef.cs" t="Include" />
+              <e p="Mathv.cs" t="Include" />
+              <e p="Rendering" t="Include">
+                <e p="FrustumCuller.cs" t="Include" />
+                <e p="SDF.cs" t="Include" />
+              </e>
+              <e p="Vector4Int.cs" t="Include" />
+            </e>
+            <e p="ObjectPool" t="Include">
+              <e p="GameObjectPool.cs" t="Include" />
+              <e p="ObjectPool.cs" t="Include" />
+              <e p="PoolManager.cs" t="Include" />
+            </e>
+            <e p="Random" t="Include">
+              <e p="Noise2D.cs" t="Include" />
+              <e p="Shuffler.cs" t="Include" />
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="IterationPatterns2D.cs" t="Include" />
+              <e p="Reflection.cs" t="Include" />
+              <e p="StringMaster.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Test.cs" t="Include" />
+        </e>
+        <e p="Settings" t="Include" />
+        <e p="TutorialInfo" t="Include">
+          <e p="Icons" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DOTween.Modules.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\22611\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\22611\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_2023AIGJ.-1803092622.00" t="ExcludeRecursive" />
+  </component>
+</project>
